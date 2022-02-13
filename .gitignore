@@ -23,4 +23,4 @@ erl_crash.dump
 thousand_island-*.tar
 
 # Ignore dialyzer caches
-/priv/plts/
+# /priv/plts/
